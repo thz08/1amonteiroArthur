@@ -1,54 +1,51 @@
-body{
-    background-color: coral;
+body {
+	
 }
 
-#banner{
-    width: 100%;
-}
-
-.tituloprincipal{
-    padding-left: 20px;
+#banner {
+	width:100%;
 }
 
 .principal{
-    background-color: red;
-    padding: 30px;
+	background: #CCCCCC;
+	padding: 30px;
 }
 
-.titulocentralizado{
-    text-align: center;
+h1 {
+	text-align: center
 }
 
-p{
-    text-align: center;
+p {
+	text-align: center;
 }
 
-#mission{
-    font-size: 20px;
+#missao {
+	font-size: 20px
 }
 
-em strong{
-    color: beige
+em strong {
+	color: #FF0000;
 }
 
-.itens{
-    font-style: italic;
+.itens {
+	font-style: italic
 }
 
-h2{
-    text-align: center
+.beneficios {
+	background: #FFFFFF;
+	padding: 20px;
 }
 
-ul{
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
+h2 {
+	text-align: center;
+}
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
 }
 
-.imagembeneficios{
-    width:50%
-}
-h3{
-    text-align: center;
+.imagembeneficios {
+	width: 50%;
 }
